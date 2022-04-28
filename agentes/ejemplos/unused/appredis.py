@@ -1,0 +1,4 @@
+
+
+
+def subs(r, channels):
